@@ -7,7 +7,7 @@ If you are looking for a better solution with a good web interface,
  [try this](https://github.com/gurudigitalsolutions/NAS-Pi). 
  We do intend to add these features in the future.
 
-This program is intended to be a three part solution that combines:
+This program is intended to be one out of a three part solution that combines:
 * NAS
 * Transmission Bit Torrent (Web-Interface Daemon)
 * VPN
