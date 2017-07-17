@@ -16,14 +16,15 @@ This program is intended to be a three part solution that combines:
 
 Execute the following command to install:
 
-'''
+```
 sudo chmod +X pi_util.sh
 sudo sh nas_util.sh install_and_setup_nas
-'''
+```
 
 To remove:
-'''
+```
 sudo sh nas_util.sh remove_nas
-'''
+```
+
 
 For advanced users, open nas_setup.sh, change configuration variables and run.
