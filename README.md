@@ -1,4 +1,4 @@
-# BtNasPian
+# BtNasPian: NasPi
 
 This is a program that automates NAS setup. Assumes one USB HDD connected to the Raspberry Pi.
 No Raid Support. Simple program for newbies.
